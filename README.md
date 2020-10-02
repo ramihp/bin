@@ -1,4 +1,2 @@
 # Hello World
->>> @ramihp/teams 👍🏼 ❤️  ## I was here 🙉 
-
-## Integrations
+>>> @ramihp/teams 👍🏼 ❤️  ## I was here 🙉
